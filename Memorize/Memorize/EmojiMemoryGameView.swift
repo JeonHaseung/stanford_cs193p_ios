@@ -54,7 +54,7 @@ struct CardView: View {
     private func body(for size: CGSize) -> some View {
         if card.isFaceUp || !card.isMatched {
             ZStack {
-                Group {
+                Group { 
                     if card.isConsumingBonusTime {
                         Pie(
                             startAngle: Angle.degrees(0-90),
