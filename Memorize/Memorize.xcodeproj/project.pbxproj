@@ -72,8 +72,7 @@
 		47641E1624C16061009DC41F /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				47A945FD24C3632700A36EDF /* Cardify.swift */,
-				47641E1B24C16061009DC41F /* EmojiMemoryGameView.swift */,
+				47E44EA924C5D0F5009BB200 /* New Group */,
 				47A945FB24C35BC000A36EDF /* Pie.swift */,
 				47A945F124C2DB0400A36EDF /* EmojiMemoryGame.swift */,
 				47A945EF24C2D89A00A36EDF /* MemoryGame.swift */,
@@ -97,6 +96,15 @@
 				47641E2024C16064009DC41F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		47E44EA924C5D0F5009BB200 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				47641E1B24C16061009DC41F /* EmojiMemoryGameView.swift */,
+				47A945FD24C3632700A36EDF /* Cardify.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
